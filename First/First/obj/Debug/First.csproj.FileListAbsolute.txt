@@ -1,0 +1,162 @@
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\First.exe.config
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\First.exe
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\First.pdb
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\EntityFramework.dll
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\EntityFramework.xml
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\MainWindow.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\App.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First_MarkupCompile.cache
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First_MarkupCompile.lref
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\MainWindow.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.g.resources
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.csproj.CopyComplete
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.exe
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.pdb
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\LoginShop.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\CreateQR.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\Customer Create QR.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ScanQR.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\Shop Scan QR.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\LoginUser.g.cs
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\MaterialDesignColors.dll
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bimsara\Desktop\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\App.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\CreateQR.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\Customer Create QR.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\LoginShop.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\LoginUser.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ScanQR.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\Shop Scan QR.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\PersonalAccount.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ShopAccount.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\PersonalAccount.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ShopAccount.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\CustomerDetails.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ShopDashBoard.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\UserDashBoard.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\CustomerDetails.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ShopDashBoard.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\UserDashBoard.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ViewQR.g.cs
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\ViewQR.baml
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.Migrations.InitialCreate.resources
+C:\Users\bimsara\Desktop\First\First\First\obj\Debug\First.Migrations.userLogin.resources
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\First.exe.config
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\First.exe
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\First.pdb
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.dll
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignColors.dll
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.xml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignColors.pdb
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CreateQR.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Customer Create QR.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CustomerDetails.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginShop.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginUser.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\MainWindow.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\PersonalAccount.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ScanQR.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Shop Scan QR.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopAccount.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopDashBoard.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\UserDashBoard.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ViewQR.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\App.g.cs
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First_MarkupCompile.cache
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First_MarkupCompile.lref
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\App.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CreateQR.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Customer Create QR.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CustomerDetails.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginShop.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginUser.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\MainWindow.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\PersonalAccount.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ScanQR.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Shop Scan QR.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopAccount.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopDashBoard.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\UserDashBoard.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ViewQR.baml
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.g.resources
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Migrations.InitialCreate.resources
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Migrations.userLogin.resources
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csproj.CopyComplete
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.exe
+C:\Users\bimsara\Desktop\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.pdb
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\First.exe.config
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\First.exe
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\First.pdb
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.dll
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.SqlServer.dll
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignColors.dll
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.xml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\EntityFramework.SqlServer.xml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignColors.pdb
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Academic\4rth sem\GUI\mini project\First\First\First\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csprojAssemblyReference.cache
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CreateQR.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Customer Create QR.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CustomerDetails.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginShop.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginUser.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\MainWindow.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\PersonalAccount.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ScanQR.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Shop Scan QR.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopAccount.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopDashBoard.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\UserDashBoard.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\App.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First_MarkupCompile.cache
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First_MarkupCompile.lref
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\App.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CreateQR.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Customer Create QR.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\CustomerDetails.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginShop.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\LoginUser.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\MainWindow.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\PersonalAccount.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ScanQR.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\Shop Scan QR.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopAccount.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\ShopDashBoard.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\UserDashBoard.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.g.resources
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Migrations.InitialCreate.resources
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Migrations.userLogin.resources
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Properties.Resources.resources
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csproj.GenerateResource.cache
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.csproj.CopyComplete
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.exe
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.pdb
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\QRSelect.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\SelectQR.g.cs
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\QRSelect.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\SelectQR.baml
+E:\Academic\4rth sem\GUI\mini project\First\First\First\obj\Debug\First.Migrations.qrdata.resources

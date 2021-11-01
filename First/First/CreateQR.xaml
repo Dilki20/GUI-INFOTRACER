@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="First.CreateQR"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:First"
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock HorizontalAlignment="Center" Margin="10" Text="Create QR" FontSize="35" FontFamily="MISTRAL" Foreground="Black"></TextBlock>
+            <Image Margin="10" Width="150" Height="150" x:Name="imageQR"></Image>
+            <TextBox Margin="20 5" x:Name="txtQR" FontSize="16" materialDesign:HintAssist.Hint="Enter Your Name and Contact Number Here" Height="50" >
+
+            </TextBox>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Margin="10" x:Name="btnCreateQR" Click="btnCreateQR_Click" HorizontalAlignment="Center" Background="DarkCyan" BorderBrush="Black">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Qrcode" Margin="0 0 5 0" Width="25" Height="25"/>
+                        <TextBlock FontSize="16" Text="Create QR"></TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button Margin="10" x:Name="btnSaveQR" Click="btnSaveQR_Click" HorizontalAlignment="Center" Background="DarkCyan" BorderBrush="Black">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="ContentSave" Margin="0 0 5 0" Width="25" Height="25"/>
+                        <TextBlock FontSize="16" Text="Save QR"></TextBlock>
+                    </StackPanel>
+                </Button>
+                <Button Margin="10" x:Name="btnnewAccount" Click="btnnewAccount_Click" HorizontalAlignment="Center" Background="DarkCyan" BorderBrush="Black">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="User" Margin="0 0 5 0" Width="25" Height="25"/>
+                        <TextBlock FontSize="16" Text="New Account"></TextBlock>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</UserControl>
